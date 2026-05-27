@@ -24,7 +24,7 @@ This project performs end-to-end analytical visualization of crime-related datas
 | Tool | Purpose |
 |------|---------|
 | **Power BI** | Dashboard creation and visualization |
-| **Microsoft Excel ** | Data cleaning and preprocessing |
+| **Microsoft Excel** | Data cleaning and preprocessing |
 | **DAX** | Calculated measures and KPIs |
 
 ---
